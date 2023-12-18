@@ -1,6 +1,6 @@
-계산화학 및 생물학
-==================
+Computational Chemistry for Fun
+===============================
 
-written by Joo-Chan Kim from MSBL, KAIST
+Ubove codes were written by Joo-Chan Kim at Molecular Synthetic Biology Laboratory in Korea Advanced Institute of Science and Technology (http://msbl.kaist.ac.kr).
 
-리간드의 DFT, 단백질 - 리간드 도킹, classical MD, metadyanmic MD, QM/MM 등을 Google Colab으로 실행하는 코드들을 올릴 예정입니다~ 
+If you have any questions or improvements to make, please contact me through kimjoochan@kaist.ac.kr .
