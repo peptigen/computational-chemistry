@@ -5,4 +5,4 @@ Ubove codes were written by Joo-Chan Kim at Molecular Synthetic Biology Laborato
 
 If you have any questions or improvements to make, please contact me through kimjoochan@kaist.ac.kr .
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/kimjc95/computational-chemistry/blob/main/Ligand_Docking.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kimjc95/computational-chemistry/blob/main/Ligand_Docking.ipynb)
